@@ -1,5 +1,5 @@
 # Welcome!
 
-[SERBIAN](/)
+[SRPSKI](/)
 
 Tbd.
