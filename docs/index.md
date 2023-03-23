@@ -23,3 +23,5 @@ Izaberite vozilo koje će zadovoljiti vaše potrebe, i prepustite se udobnoj, be
 ![](images/004.jpg)
 ![](images/005.jpg)
 ![](images/006.jpg)
+
+<a href="tel:+381642425121" style="color:red">KONTAKT: <strong>+381 64 242 5121</strong></a> (Telefon, Viber, WhatsApp, Telegram)
