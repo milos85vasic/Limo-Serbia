@@ -12,6 +12,7 @@ Enjoy professional drivers, meticulous vehicles, and prompt arrivals for every r
 - Airport transfers
 - The personal driver's service
 - Various other transportation services
+- <a style="color:red">All major payment methods are supported</a>
 
 Choose a vehicle that will meet your needs, and indulge in a comfortable, safe and luxurious ride!
 

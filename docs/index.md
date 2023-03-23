@@ -12,6 +12,7 @@ Uživajte u profesionalnim vozačima, urednim vozilima i brzom dolasku za svako 
 - Aerodromski transferi
 - Usluge ličnog vozača
 - Razne druge usluge prevoza
+- <a style="color:red">Podržani su svi standardni načini plaćanja</a>
 
 Izaberite vozilo koje će zadovoljiti vaše potrebe, i prepustite se udobnoj, bezbednoh i luksuznoj vožnji!
 
