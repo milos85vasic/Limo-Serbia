@@ -25,4 +25,10 @@ Choose a vehicle that will meet your needs, and indulge in a comfortable, safe a
 ![](/images/005.jpg)
 ![](/images/006.jpg)
 
+## Price list
+
+- Price per hour (business trips, events):      32€ / hour
+- Price per day (weddings, longer trips):       200€ / day
+- Airport (transport from and to the airport):  35€
+
 <a href="tel:+381642425121" style="color:red">CONTACT: <strong>+381 64 242 5121</strong></a> (Phone, Viber, WhatsApp, Telegram)
