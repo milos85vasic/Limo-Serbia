@@ -1,6 +1,6 @@
 # Dobrodošli!
 
-[ENGLISH](/en)
+[ENGLISH](/en) · [Mercedes, E klasa](#mercedes-e-klasa) · [Cenovnik](#cenovnik)
 
 Kada iznajmite nasu uslugu, Vi dobijate više od putovanja - dobijate iskustvo.
 Uživajte u profesionalnim vozačima, urednim vozilima i brzom dolasku za svako putovanje!
@@ -16,7 +16,7 @@ Uživajte u profesionalnim vozačima, urednim vozilima i brzom dolasku za svako 
 
 Izaberite vozilo koje će zadovoljiti vaše potrebe, i prepustite se udobnoj, bezbednoh i luksuznoj vožnji!
 
-## Mercedes, E klasa
+# Mercedes, E klasa
 
 ![](images/001.jpg)
 ![](images/002.jpeg)
@@ -25,7 +25,7 @@ Izaberite vozilo koje će zadovoljiti vaše potrebe, i prepustite se udobnoj, be
 ![](images/005.jpg)
 ![](images/006.jpg)
 
-## Cenovnik
+# Cenovnik
 
 - Cena na sat (poslovna putovanja, Događaji): 32€ / Sat
 - Cena na dan (venčanja, Duža putovanja):     200€ / Dan

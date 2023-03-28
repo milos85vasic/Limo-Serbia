@@ -1,6 +1,6 @@
 # Welcome!
 
-[SRPSKI](/)
+[SRPSKI](/) · [Mercedes, class E](#mercedes-class-e) · [Price list](#price-list)
 
 When you hire a us, You get more than just a ride - you get an experience.
 Enjoy professional drivers, meticulous vehicles, and prompt arrivals for every ride.
@@ -16,7 +16,7 @@ Enjoy professional drivers, meticulous vehicles, and prompt arrivals for every r
 
 Choose a vehicle that will meet your needs, and indulge in a comfortable, safe and luxurious ride!
 
-## Mercedes, class E
+# Mercedes, class E
 
 ![](/images/001.jpg)
 ![](/images/002.jpeg)
@@ -25,7 +25,7 @@ Choose a vehicle that will meet your needs, and indulge in a comfortable, safe a
 ![](/images/005.jpg)
 ![](/images/006.jpg)
 
-## Price list
+# Price list
 
 - Price per hour (business trips, events):      32€ / hour
 - Price per day (weddings, longer trips):       200€ / day
