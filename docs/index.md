@@ -18,12 +18,8 @@ Izaberite vozilo koje će zadovoljiti vaše potrebe, i prepustite se udobnoj, be
 
 # Mercedes, E klasa
 
-![](images/001.jpg)
-![](images/002.jpeg)
-![](images/003.jpg)
-![](images/004.jpg)
-![](images/005.jpg)
-![](images/006.jpg)
+![](images/photo_2023-03-28_19-59-29.jpg)
+![](images/photo_2023-03-28_19-59-50.jpg)
 
 # Cenovnik
 
