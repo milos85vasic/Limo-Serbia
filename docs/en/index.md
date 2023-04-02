@@ -24,8 +24,8 @@ Choose a vehicle that will meet your needs, and indulge in a comfortable, safe a
 
 # Price list
 
-- Price per hour (business trips, events):      32€ / hour
-- Price per day (weddings, longer trips):       200€ / day
-- Airport (transport from and to the airport):  35€
+- Out-of-town rides: 1 € / KM
+- Waiting: 15 € / hour (first hour is free + toll)
+- Transfer to and from the airport: 30 €
 
 <a href="tel:+381642425121" style="color:red">CONTACT: <strong>+381 64 242 5121</strong></a> (Phone, Viber, WhatsApp, Telegram)

@@ -24,8 +24,8 @@ Izaberite vozilo koje će zadovoljiti vaše potrebe, i prepustite se udobnoj, be
 
 # Cenovnik
 
-- Cena na sat (poslovna putovanja, Događaji): 32€ / Sat
-- Cena na dan (venčanja, Duža putovanja):     200€ / Dan
-- Aerodrom (transport od i do aerodroma):     35€
+- Vožnje van grada: 1 € / KM
+- Čekanje: 15 € / Sat (prvi sat je besplatan + putarina)
+- Transferi sa i do aerodroma: 30 €
 
 <a href="tel:+381642425121" style="color:red">KONTAKT: <strong>+381 64 242 5121</strong></a> (Telefon, Viber, WhatsApp, Telegram)
