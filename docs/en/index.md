@@ -20,6 +20,7 @@ Choose a vehicle that will meet your needs, and indulge in a comfortable, safe a
 
 ![](images/photo_2023-03-28_19-59-29.jpg)
 ![](images/photo_2023-03-28_19-59-50.jpg)
+![](images/005.jpg)
 
 # Price list
 
