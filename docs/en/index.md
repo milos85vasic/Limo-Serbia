@@ -5,7 +5,7 @@
 When you hire a us, You get more than just a ride - you get an experience.
 Enjoy professional drivers, meticulous vehicles, and prompt arrivals for every ride.
 
-- Limo service
+- Limo taxi service
 - Business travel
 - Airport transfers
 - The personal driver's service
