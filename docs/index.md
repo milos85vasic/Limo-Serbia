@@ -27,5 +27,7 @@ Izaberite vozilo koje će zadovoljiti vaše potrebe, i prepustite se udobnoj, be
 - Vožnje van grada: 1 € / KM
 - Čekanje: 15 € / Sat (prvi sat je besplatan + putarina)
 - Transferi sa i do aerodroma: 30 €
+- Vožnja po gradu: (započeti sat) 35 € / Sat
+- Celodnevni najam sa vozačem 200 €
 
 <a href="tel:+381642425121" style="color:red">KONTAKT: <strong>+381 64 242 5121</strong></a> (Telefon, Viber, WhatsApp, Telegram)
